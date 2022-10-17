@@ -11,4 +11,3 @@
 - Ethers
 - Hardhat
 - Web3Modal
-- Tailwind CSS
