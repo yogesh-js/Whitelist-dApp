@@ -200,7 +200,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Wild Apes!</h1>
           <div className={styles.description}>
-            It's an NFT collection for Apes!
+            This is an NFT collection for Apes!
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
